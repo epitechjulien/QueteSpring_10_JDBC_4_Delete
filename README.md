@@ -1,0 +1,1 @@
+# QueteSpring_10_JDBC_4_Delete
